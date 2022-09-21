@@ -12,3 +12,7 @@ yellow
 Taha Taha
 mubashir 
 muhammad faiz
+
+purple
+warning
+positive
