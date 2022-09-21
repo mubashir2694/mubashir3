@@ -22,5 +22,9 @@ umer
 basit
 
 
+<<<<<<< HEAD
 bilal kahan gaya..??
 hi mubashir...
+=======
+bilal kahan gaya..??
+>>>>>>> mubashir
